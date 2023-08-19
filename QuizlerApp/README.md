@@ -1,4 +1,4 @@
-# bmicalculator
+# QuizlerApp
 
 A new Flutter project.
 
